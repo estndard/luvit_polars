@@ -14,4 +14,4 @@
 - [10.1장 3](https://estndard.github.io/luvit_polars/chap10.1_3.html)
 - [10.2장 ~ 4장](https://estndard.github.io/luvit_polars/chap10.2-4.html)
 
-**폴라스로 시작하는 데이터 분석**의 영상 강의는 유튜브 **데이터 과학자를 위한 도구상자**(https://www.youtube.com/@2stndard)를 참고하십시요
+**폴라스로 시작하는 데이터 분석**의 영상 강의는 유튜브 [**데이터 과학자를 위한 도구상자**](https://www.youtube.com/@2stndard) 를 참고하십시요
