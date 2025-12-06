@@ -1,5 +1,15 @@
-# polars
-폴라스 책에 대한 소스코드입니다.
+<h1 align="center">
+  <a href="https://pola.rs">
+    <img src="https://estndard.github.io/luvit_polars/%ED%91%9C%EC%A7%80.png" alt="Polars logo">
+  </a>
+</h1>
 
+"폴라스로 시작하는 데이터 분석"의 소스 코드를 제공합니다. 
 
-[다운로드 받기](https://drive.google.com/uc?export=download&id=1e0ktXADGrLPezT9TrSZQe5iV6pL4Tt01)
+각 챕터별 노트북 파일이 제공되는데 시각화의 경우 깃헙에서 지원하지 못하기 때문에 노트북 파일에서는 시각화가 보이지 않아 다음의 링크를 확인하시면 시각화가 적용된 노트북을 보실수 있습니다. 
+
+- [8장](https://estndard.github.io/luvit_polars/chap8.html)
+- [10.1장 1](https://estndard.github.io/luvit_polars/chap10.1_1.html)
+- [10.1장 2](https://estndard.github.io/luvit_polars/chap10.1_2.html)
+- [10.1장 3](https://estndard.github.io/luvit_polars/chap10.1_3.html)
+- [10.2장 ~ 4장](https://estndard.github.io/luvit_polars/chap10.2-4.html)
