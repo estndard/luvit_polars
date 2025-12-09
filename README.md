@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="https://estndard.github.io/luvit_polars/%ED%91%9C%EC%A7%80.png" alt="image" width="200">
+      <img src="https://estndard.github.io/luvit_polars/%ED%91%9C%EC%A7%80.png" alt="image" width="400">
     </td>
     <td width="60%">
       <h3>프로젝트 제목</h3>
