@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://estndard.github.io/luvit_polars/%ED%91%9C%EC%A7%80.png" alt="image" width="800">
+      <img src="https://estndard.github.io/luvit_polars/%ED%91%9C%EC%A7%80.png" alt="image" width="500">
     </td>
     <td width="60%">
       
