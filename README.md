@@ -24,12 +24,12 @@
 > [!TIP]
 > **폴라스로 시작하는 데이터 분석**의 영상 강의는 유튜브 [**데이터 과학자를 위한 도구상자**](https://www.youtube.com/@2stndard) 를 참고하십시요
 
-<table border="0">
-  <tr>
-    <td width="40%">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td  style="border: none;" width="40%">
       <img src="https://estndard.github.io/luvit_polars/%ED%91%9C%EC%A7%80.png" alt="image" width="400">
     </td>
-    <td width="60%">
+    <td  style="border: none;" width="60%">
       
 **폴라스로 시작하는 데이터 분석**의 소스 코드를 제공합니다. 
 
