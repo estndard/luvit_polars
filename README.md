@@ -1,9 +1,9 @@
-<table style="border: none;">
-  <tr style="border: none;">
-    <td  style="border: none;" width="40%">
+<table border="0">
+  <tr>
+    <td>
       <img src="https://estndard.github.io/luvit_polars/%ED%91%9C%EC%A7%80.png" alt="image" width="600">
     </td>
-    <td  style="border: none;" width="60%">
+    <td width="60%">
       
 **폴라스로 시작하는 데이터 분석**의 소스 코드를 제공합니다. 
 
