@@ -30,7 +30,8 @@
       <img src="https://estndard.github.io/luvit_polars/%ED%91%9C%EC%A7%80.png" alt="image" width="400">
     </td>
     <td width="60%">
-      **폴라스로 시작하는 데이터 분석**의 소스 코드를 제공합니다. 
+      
+**폴라스로 시작하는 데이터 분석**의 소스 코드를 제공합니다. 
 
 > [!NOTE] 
 > 책과 노트북 파일에서 사용한 **[KOBIS 박스오피스 데이터](https://www.kobis.or.kr/kobis/business/stat/boxs/findPeriodBoxOfficeList.do)는 저작권상 제3자 배포가 금지**되어 제공해드리지 못하는점 양해부탁드립니다.
